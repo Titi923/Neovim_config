@@ -1,0 +1,15 @@
+require "user.options"
+require "user.keymaps"
+require "user.plugins"
+
+ -- PLUGINS
+require "user.colorscheme"
+require "user.autopairs"
+require "user.nvim_comment"
+require "user.move_lines"
+require "user.nvim-tree"
+require "user.nvim-colorizer"
+require "user.telescope"
+require "user.treesitter"
+require "user.lualine"
+require "user.coc-nvim"
